@@ -1,5 +1,7 @@
 # JSD-Project2
 
+[Try It Out](https://noraaltwaijri.github.io/JSD-Project2/)
+
 ## Table of Contents
 
 * [Introduction](#Introduction)
